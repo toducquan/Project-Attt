@@ -1,0 +1,32 @@
+.personal{
+    width: 100%;
+}
+.doc{
+    margin: 10px 0px 0px;
+    width: 100%;
+    display: flex;
+    height: 70px;
+}
+.doc{
+    border-radius: 1%;
+}
+.title{
+    width: 60%;
+    font-size: 20px;
+    color: #ffff;
+    padding: 20px 30px;
+}
+.options{
+    padding: 15px;
+    padding-left: 20%;
+}
+.options svg{
+    width: 42px;
+    height: 42px;
+    margin:0px 10px;
+    padding: 5px;
+    color: #ffff;
+    border: 1px solid #ffff;
+    border-radius: 10%;
+    cursor: pointer;
+}
